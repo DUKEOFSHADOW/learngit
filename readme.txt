@@ -3,5 +3,5 @@ Git is free software.
 <<<<<<< HEAd.
 Creating a new branch is quick & simple.
 =======
-Creating a new branch is quick and simple.
+Creating a new branch is quick AND simple.
 >>>>>>> feature1
